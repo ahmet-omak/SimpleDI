@@ -3,6 +3,9 @@
 ### Introduction
 It's a lightweight  <a href="https://en.wikipedia.org/wiki/Dependency_injection#:~:text=In%20software%20engineering%2C%20dependency%20injection,it%20depends%20on%2C%20called%20dependencies.&text=The%20intent%20behind%20dependency%20injection,increase%20readability%20and%20code%20reuse.">Dependency Injection</a> Library built specifically to target Unity 3D
 
+### One thing to keep in mind
+I have made this repo for learning purposes only. Which means, I don't badly say that Simple DI is exactly what you need to do Dependency Injection. It's just a simple and lightweight solution not to use Singletons.
+
 ### Features
 - Supports both MonoBehaviours and normal C# classes
 - Exception handling using its own logging system
